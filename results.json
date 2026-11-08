@@ -1,0 +1,6 @@
+{
+  "asr_noise_0%": {"keyword_baseline": [0.844, 0.871, 0.857], "rag_char_ngram": [0.815, 0.71, 0.759]},
+  "asr_noise_10%": {"keyword_baseline": [0.833, 0.806, 0.82], "rag_char_ngram": [0.806, 0.806, 0.806]},
+  "asr_noise_20%": {"keyword_baseline": [0.852, 0.742, 0.793], "rag_char_ngram": [0.812, 0.839, 0.825]},
+  "asr_noise_30%": {"keyword_baseline": [0.846, 0.71, 0.772], "rag_char_ngram": [0.706, 0.774, 0.738]}
+}
