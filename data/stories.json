@@ -1,0 +1,153 @@
+[
+ {
+  "id": "phare",
+  "title": "Le gardien du phare",
+  "text": "Sur une petite île vivait Marius, un vieux gardien de phare. Chaque soir, il allumait la grande lampe pour guider les bateaux. Une nuit de tempête, la lampe s'éteignit. Marius entendit au loin la corne d'un bateau de pêche perdu dans le brouillard. Sans lampe, le bateau risquait de heurter les rochers. Marius prit alors une vieille lanterne et monta tout en haut du phare. Il agita la lanterne pendant des heures sous la pluie. Au matin, le bateau arriva sain et sauf au port. Les pêcheurs remercièrent Marius et réparèrent la grande lampe avec lui.",
+  "grid": {
+   "personnage": {
+    "desc": "Marius, le vieux gardien du phare",
+    "keys": [
+     "marius",
+     "gardien",
+     "vieux monsieur"
+    ]
+   },
+   "probleme": {
+    "desc": "la lampe s'éteint pendant une tempête",
+    "keys": [
+     "lampe",
+     "éteint",
+     "tempête",
+     "panne"
+    ]
+   },
+   "danger": {
+    "desc": "un bateau perdu risque de heurter les rochers",
+    "keys": [
+     "bateau",
+     "rochers",
+     "perdu",
+     "brouillard"
+    ]
+   },
+   "solution": {
+    "desc": "Marius utilise une lanterne pour guider le bateau",
+    "keys": [
+     "lanterne",
+     "agite",
+     "guider",
+     "lumière"
+    ]
+   },
+   "fin": {
+    "desc": "le bateau arrive au port et les pêcheurs remercient Marius",
+    "keys": [
+     "port",
+     "remercie",
+     "sauvé",
+     "arrive"
+    ]
+   }
+  }
+ },
+ {
+  "id": "graine",
+  "title": "La graine de Lina",
+  "text": "Lina trouva une graine dorée dans le jardin de sa grand-mère. Elle la planta dans un pot et l'arrosa tous les jours. Pendant une semaine, rien ne poussa et Lina fut très déçue. Son frère Tom se moqua d'elle. Sa grand-mère lui expliqua que les plantes ont besoin de patience et de soleil. Lina déplaça le pot près de la fenêtre et continua à s'en occuper. Un matin, une petite pousse verte apparut. Quelques semaines plus tard, une grande fleur jaune s'ouvrit, et Tom demanda pardon à sa sœur.",
+  "grid": {
+   "personnage": {
+    "desc": "Lina, une petite fille",
+    "keys": [
+     "lina",
+     "fille"
+    ]
+   },
+   "objet": {
+    "desc": "une graine dorée trouvée dans le jardin",
+    "keys": [
+     "graine",
+     "dorée",
+     "jardin"
+    ]
+   },
+   "probleme": {
+    "desc": "rien ne pousse et Lina est déçue",
+    "keys": [
+     "pousse pas",
+     "rien",
+     "déçue",
+     "triste"
+    ]
+   },
+   "conseil": {
+    "desc": "la grand-mère parle de patience et de soleil",
+    "keys": [
+     "grand-mère",
+     "patience",
+     "soleil",
+     "fenêtre"
+    ]
+   },
+   "fin": {
+    "desc": "une fleur pousse et Tom demande pardon",
+    "keys": [
+     "fleur",
+     "pardon",
+     "pousse",
+     "tom"
+    ]
+   }
+  }
+ },
+ {
+  "id": "robot",
+  "title": "Le robot qui ne savait pas dessiner",
+  "text": "Dans une école, la maîtresse présenta Bip, un petit robot capable de tout calculer. Les élèves lui demandèrent de dessiner un chat. Bip dessina seulement des carrés et des lignes droites, et toute la classe rit. Bip devint tout rouge et alla se cacher dans le placard. Une élève, Sarah, vint le voir et lui apprit à faire des courbes avec un crayon. Ensemble, ils s'entraînèrent toute la récréation. L'après-midi, Bip montra un joli dessin de chat avec de longues moustaches, et la classe applaudit.",
+  "grid": {
+   "personnage": {
+    "desc": "Bip, un petit robot",
+    "keys": [
+     "bip",
+     "robot"
+    ]
+   },
+   "probleme": {
+    "desc": "Bip ne sait pas dessiner un chat",
+    "keys": [
+     "dessiner",
+     "carrés",
+     "chat",
+     "sait pas"
+    ]
+   },
+   "emotion": {
+    "desc": "la classe rit et Bip se cache, honteux",
+    "keys": [
+     "rit",
+     "cache",
+     "placard",
+     "honte",
+     "triste"
+    ]
+   },
+   "aide": {
+    "desc": "Sarah lui apprend à faire des courbes",
+    "keys": [
+     "sarah",
+     "apprend",
+     "courbes",
+     "aide"
+    ]
+   },
+   "fin": {
+    "desc": "Bip réussit son dessin et la classe applaudit",
+    "keys": [
+     "applaudit",
+     "réussit",
+     "joli dessin",
+     "moustaches"
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,105 @@
+[
+ {
+  "story": "phare",
+  "text": "c'est l'histoire de marius il est gardien d'un phare et un soir la lampe elle s'éteint parce qu'il y a une tempête alors il prend une lanterne et il fait des signes et le bateau il arrive au port",
+  "labels": [
+   "personnage",
+   "probleme",
+   "solution",
+   "fin"
+  ]
+ },
+ {
+  "story": "phare",
+  "text": "un monsieur il habite dans une tour sur une île et il y a un bateau qui est perdu dans le brouillard il a peur que le bateau tape les rochers",
+  "labels": [
+   "personnage",
+   "danger"
+  ]
+ },
+ {
+  "story": "phare",
+  "text": "le vieux monsieur il monte en haut avec une petite lumière et il la bouge toute la nuit sous la pluie à la fin les pêcheurs ils lui disent merci",
+  "labels": [
+   "personnage",
+   "solution",
+   "fin"
+  ]
+ },
+ {
+  "story": "phare",
+  "text": "il y avait un orage et plus de lumière dans le phare le bateau pouvait se cogner contre les cailloux mais à la fin tout le monde est sauvé",
+  "labels": [
+   "probleme",
+   "danger",
+   "fin"
+  ]
+ },
+ {
+  "story": "graine",
+  "text": "lina elle trouve une graine en or dans le jardin de sa mamie elle la plante mais ça pousse pas et elle est triste",
+  "labels": [
+   "personnage",
+   "objet",
+   "probleme"
+  ]
+ },
+ {
+  "story": "graine",
+  "text": "la grand-mère elle dit qu'il faut attendre et mettre la plante au soleil alors la petite fille elle met le pot à côté de la fenêtre et après il y a une fleur jaune",
+  "labels": [
+   "personnage",
+   "conseil",
+   "fin"
+  ]
+ },
+ {
+  "story": "graine",
+  "text": "son frère il rigole d'elle parce que rien ne pousse mais à la fin il lui demande pardon",
+  "labels": [
+   "probleme",
+   "fin"
+  ]
+ },
+ {
+  "story": "graine",
+  "text": "une fille elle arrose un pot tous les jours pendant une semaine",
+  "labels": [
+   "personnage"
+  ]
+ },
+ {
+  "story": "robot",
+  "text": "bip c'est un robot à l'école il sait pas dessiner un chat il fait que des carrés et les enfants ils rigolent",
+  "labels": [
+   "personnage",
+   "probleme",
+   "emotion"
+  ]
+ },
+ {
+  "story": "robot",
+  "text": "le robot il va se cacher dans l'armoire parce qu'il a honte puis une fille qui s'appelle sarah elle l'aide à faire des ronds",
+  "labels": [
+   "personnage",
+   "emotion",
+   "aide"
+  ]
+ },
+ {
+  "story": "robot",
+  "text": "à la fin il fait un beau dessin de chat avec des moustaches et tout le monde tape dans les mains",
+  "labels": [
+   "fin"
+  ]
+ },
+ {
+  "story": "robot",
+  "text": "il y a une maîtresse qui montre un robot qui sait calculer et une élève lui apprend à dessiner des courbes et à la fin il réussit",
+  "labels": [
+   "personnage",
+   "aide",
+   "fin"
+  ]
+ }
+]
